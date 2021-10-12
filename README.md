@@ -1,7 +1,7 @@
 # CausalRec
 Code for MM 2021 paper, CausalRec: Causal Inference for Visual Debiasing in Visually-Aware Recommendation
 
-The code implementatio is suggested to refer to [this repo](https://github.com/RuihongQiu/cornac/tree/master/cornac/models/causalrec) based on [Cornac](https://github.com/PreferredAI/cornac), where a more updated version of the framework is maintained.
+The code implementation is suggested to refer to [this repo](https://github.com/RuihongQiu/cornac/tree/master/cornac/models/causalrec) based on [Cornac](https://github.com/PreferredAI/cornac), where a more updated version of the framework is maintained.
 
 If you find this repo useful, please cite
 ```
